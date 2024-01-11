@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilyas\\Desktop\\Tic-Tac-Toe Game project C#\\Tic-Tac-Toe Game project C#\\Complete the FizzBuzz Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961B5944-58DC-4543-B781-AAA7C3D5480A}|Complete the FizzBuzz Challenge\\Complete the FizzBuzz Challenge.csproj|c:\\users\\ilyas\\desktop\\tic-tac-toe game project c#\\tic-tac-toe game project c#\\complete the fizzbuzz challenge\\complete the fizzbuzz challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961B5944-58DC-4543-B781-AAA7C3D5480A}|Complete the FizzBuzz Challenge\\Complete the FizzBuzz Challenge.csproj|solutionrelative:complete the fizzbuzz challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Desktop\\Tic-Tac-Toe Game project C#\\Tic-Tac-Toe Game project C#\\Complete the FizzBuzz Challenge\\Complete the FizzBuzz Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "Complete the FizzBuzz Challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilyas\\Desktop\\Tic-Tac-Toe Game project C#\\Tic-Tac-Toe Game project C#\\Complete the FizzBuzz Challenge\\Complete the FizzBuzz Challenge\\Program.cs*",
+              "RelativeToolTip": "Complete the FizzBuzz Challenge\\Program.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T21:58:31.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
